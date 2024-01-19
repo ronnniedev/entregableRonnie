@@ -1,6 +1,6 @@
 section{
     background-color: greenyellow;
-    height: 500px;
+    height: fit-content;
     
     }
     
@@ -19,4 +19,15 @@ section{
         height: 300px;
         width: 500px;
     
+    }
+    li {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: xx-large;
+        text-align: center;
+        background-color: yellow;
+    
+    }
+    
+    li:hover {
+        background-color: white;
     }
